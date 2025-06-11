@@ -1,0 +1,21 @@
+table
+{
+    margin-top:100px;
+
+    border:2px solid #dd1363;
+    padding:10px;
+    border-radius:6px;
+}
+.b
+{
+    padding:10px;
+    background-color:#dd1363;
+    border:0px solid #dd1363;
+    color:white;
+}
+#h
+{
+  font-size:24px;
+  color:#dd1363;
+
+}
